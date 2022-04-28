@@ -1,8 +1,17 @@
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felip-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="felip-pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/230/230348.jpg?width=676&height=676">
+
+
 - 👋 Ola, sou o  @felipevfsbr
 - 📖 Atualmente estou Cursando Seguranca Digital na Universidade Mauricio de Nassau
 - 🐍 Estou estudando Python por conta propria, e tenho conhecimento em html+css
 - 😁Quero me tornar um Dev.
 - 📫 Contato: felipevfsbr@gmail.com
+
+[![felipevfsbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevfsbr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 felipevfsbr/felipevfsbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

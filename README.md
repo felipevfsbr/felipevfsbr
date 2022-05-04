@@ -3,10 +3,10 @@
   <img align="right" alt="felip-pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/230/230348.jpg?width=676&height=676">
 
 
-- 👋 Ola, sou o  @felipevfsbr
-- 📖 Atualmente estou Cursando Seguranca Digital na Universidade Mauricio de Nassau
-- 🐍 Estou estudando Python por conta propria, e tenho conhecimento em html+css
-- 😁Quero me tornar um Dev.
+- 👋 Ola, sou o  @felipevfsbr.
+- 📖 Atualmente estou Cursando Seguranca Digital na Universidade Mauricio de Nassau.
+- 🐍 Estou estudando Python por conta propria, e tenho conhecimento básico em html+css.
+- 😁Quero me tornar um Dev Junior.
 - 📫 Contato: felipevfsbr@gmail.com
 
 [![felipevfsbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevfsbr)](https://github.com/anuraghazra/github-readme-stats)

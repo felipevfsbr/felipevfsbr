@@ -5,7 +5,7 @@
 
 - 👋 Ola, sou o  @felipevfsbr.
 - 📖 Atualmente estou Cursando Seguranca Digital na Universidade Mauricio de Nassau.
-- 🐍 Estou estudando Python por conta propria, e tenho conhecimento básico em html+css.
+- 🐍 Estou estudando Python por conta propria, e tenho conhecimento básico em html+css+javascript.
 - 😁Quero me tornar um Dev Junior.
 - 📫 Contato: felipevfsbr@gmail.com
 

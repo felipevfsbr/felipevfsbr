@@ -10,7 +10,7 @@
 - 👋 Ola, sou o  @felipevfsbr.
 - 📖 Atualmente estou Cursando Segurança Digital na Universidade Mauricio de Nassau.
 - 🐍 Estou estudando Python por conta propria, e tenho conhecimento básico em html+css+javascript.
-- 😁Quero me tornar um Dev Junior.
+- 😁Quero me tornar um Analista de Segurança.
 - 📫 Contato: felipevfsbr@gmail.com
 
 [![felipevfsbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevfsbr)](https://github.com/anuraghazra/github-readme-stats)

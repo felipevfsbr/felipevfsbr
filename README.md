@@ -2,7 +2,7 @@
   <img align="center" alt="Felip-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felip-Python" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg">
   <img align="center" alt="Felip-Python" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
-  <img align="right" alt="felip-pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/230/230348.jpg?width=676&height=676">
+  <img align="right" alt="felip-pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/322/322052.jpg">
   
 
 
